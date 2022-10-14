@@ -19,7 +19,7 @@ Pattern recognition of different diseases from medical imaging studies using dee
 
 Detailed description of training can be seen in the manuscript. Self supervised training approaches used included proxy tasks of age and sex and image reconstruction tasks. 
 
-![Self supervised approach](files/proxy.png)
+![Self supervised approach](files/Proxy.png)
 
 
 ![Unsupervised approach](files/proxy2.png)
