@@ -31,11 +31,11 @@ Detailed description of training can be seen in the manuscript. Self supervised 
 Interpretation of deep learning models generally considered as blackbox is vital for biomedical problems. 
 
 Correctly classified cases
-<img src="files/GRAD-CAM.png" align="center">
+<img src="files/GRAD-CAM.png" width=800 align="center">
 
 
 Incorrectly classified cases
-<img src="files/GRAD-CAM2.png" align="center">
+<img src="files/GRAD-CAM2.png" width=800 align="center">
 
 
 
