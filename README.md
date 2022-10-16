@@ -7,6 +7,7 @@ Pattern recognition of different diseases from medical imaging studies using dee
 
 # Table Of Contents
 -  [Training strategies](#Training-strategies)
+-  [Interpretation](#Interpretation)
 -  [How to run the code](#How-to-run)
 -  [Code structure](#Code-structure)
 -  [Manuscript](#Manuscript)
@@ -23,4 +24,18 @@ Detailed description of training can be seen in the manuscript. Self supervised 
 
 
 ![Unsupervised approach](files/proxy2.png)
+
+
+# Interpretation
+
+Interpretation of deep learning models generally considered as blackbox is vital for biomedical problems. 
+
+Correctly classified cases
+<img src="files/GRAD_CAM.png" width="500" align="center">
+
+
+Incorrectly classified cases
+<img src="files/GRAD_CAM2.png" width="500" align="center">
+
+
 
