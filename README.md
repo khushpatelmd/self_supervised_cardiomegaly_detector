@@ -25,6 +25,10 @@ Detailed description of training can be seen in the manuscript. Self supervised 
 
 ![Unsupervised approach](files/proxy2.png)
 
+<img src="files/learning_rate_optimization.png" width=800 align="center">
+
+
+
 
 # Interpretation
 
