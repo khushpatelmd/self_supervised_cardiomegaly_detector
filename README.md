@@ -78,6 +78,7 @@ The `requirements.txt` file contains all Python libraries and they will be insta
 ```
 pip install -r requirements.txt
 ```
+~~~
 absl-py==1.0.0
 aiohttp==3.8.1
 aiosignal==1.2.0
