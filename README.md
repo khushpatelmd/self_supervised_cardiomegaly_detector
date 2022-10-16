@@ -22,11 +22,11 @@ Detailed description of training can be seen in the manuscript. Self supervised 
 
 Self supervised approach
 
-![Self supervised approach](files/Proxy.png width=800 align="center")
+![Self supervised approach]("files/Proxy.png" width=800 align="center")
 
 UNsupervised approach
 
-![Unsupervised approach](files/proxy2.png  width=800 align="center")
+![Unsupervised approach]("files/proxy2.png" width=800 align="center")
 
 Learning rate optimization
 
