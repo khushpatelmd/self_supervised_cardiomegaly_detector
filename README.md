@@ -112,7 +112,7 @@ torchvision==0.11.1
 
 # Manuscript
 
-[Manuscript]("/files/Cardiomegaly_detector.pdf") is a research work in progress and should not be used without prior permission.
+[Manuscript]("./files/Cardiomegaly_detector.pdf") is a research work in progress and should not be used without prior permission.
 
 <hr />
 
