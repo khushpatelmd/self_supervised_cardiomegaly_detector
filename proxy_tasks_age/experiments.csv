@@ -1,0 +1,2 @@
+model_name,Preprocessing,imbalance,input_img_size,augment,optimizer,lr,epochs,auc,Sensitivity,Specificity,F1 score,MCC,Balanced accuracy,comments,directory
+,,,,,,,,0.8069444444444445,0.7166666666666667,0.7333333333333333,0.7250000000000001,0.45006251302384814,0.725,,
