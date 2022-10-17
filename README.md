@@ -10,7 +10,6 @@ Pattern recognition of different diseases from medical imaging studies using dee
 
 - [Training strategies](#Training-strategies)
 - [Interpretation](#Interpretation)
-- [How to run the code](#How-to-run)
 - [Code structure](#Code-structure)
 - [Manuscript](#Manuscript)
 - [Requirements](#Requirements)
@@ -41,8 +40,6 @@ Interpretation of deep learning models generally considered as blackbox is vital
 <img src="files/GRAD-CAM.png" width=800 align="center">
 
 <img src="files/GRAD-CAM2.png" width=800 align="center">
-
-# How to run
 
 # <hr />
 
